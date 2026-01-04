@@ -1,0 +1,36 @@
+# Data files
+data/*.csv
+data/*.xlsx
+
+# Model files
+models/*.pkl
+models/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+*.log
+*.out
+
